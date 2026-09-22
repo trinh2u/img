@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-09-22T20:34:51+07:00",
+    "generatedAt":  "2026-09-22T20:49:51+07:00",
     "source":  {
                    "status":  "ok",
                    "mode":  "real_connector_data",
@@ -32,7 +32,7 @@
                                                         "provider":  "Local Playwright TikTok Studio / Creator LIVE",
                                                         "status":  "ok",
                                                         "sessions":  6,
-                                                        "lastChecked":  "2026-09-22T20:33:56+07:00",
+                                                        "lastChecked":  "2026-09-22T20:48:56+07:00",
                                                         "dateRange":  {
                                                                           "from":  "2026-09-01",
                                                                           "to":  "2026-09-12"
@@ -47,8 +47,8 @@
                                                         "handle":  "@kph.nhatphuong",
                                                         "provider":  "Local Playwright TikTok Studio / Creator LIVE",
                                                         "status":  "ok",
-                                                        "sessions":  4,
-                                                        "lastChecked":  "2026-09-22T20:34:51+07:00",
+                                                        "sessions":  5,
+                                                        "lastChecked":  "2026-09-22T20:49:51+07:00",
                                                         "dateRange":  {
                                                                           "from":  "2026-09-13",
                                                                           "to":  "2026-09-13"
@@ -60,14 +60,14 @@
                                                         "note":  "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
                                                     }
                                                 ],
-                                   "sessions":  10,
-                                   "lastChecked":  "2026-09-22T20:34:51+07:00",
+                                   "sessions":  11,
+                                   "lastChecked":  "2026-09-22T20:49:51+07:00",
                                    "note":  "Multi-account TikTok Creator LIVE. Each account uses its own authenticated collector/profile."
                                }
                 },
     "summary":  {
-                    "sessions":  10,
-                    "views":  8803,
+                    "sessions":  11,
+                    "views":  19227,
                     "peakConcurrentViewers":  306,
                     "watchMinutes":  null,
                     "followersGained":  50
@@ -306,6 +306,29 @@
                          "diamonds":  7,
                          "gifters":  6,
                          "detailMetricsSource":  "TikTok LIVE analysis verified setup snapshot"
+                     },
+                     {
+                         "platform":  "tiktok",
+                         "network":  "tiktok",
+                         "accountHandle":  "@kph.nhatphuong",
+                         "liveId":  "7688337552160672532",
+                         "id":  "7688337552160672532",
+                         "date":  "2026-09-22",
+                         "title":  "hello",
+                         "startTime":  "2026-09-22T19:37:04+07:00",
+                         "endTime":  "2026-09-22T20:41:33+07:00",
+                         "durationSec":  3869,
+                         "views":  10424,
+                         "viewers":  10424,
+                         "averageConcurrentViewers":  null,
+                         "peakConcurrentViewers":  null,
+                         "averageWatchTimeSec":  null,
+                         "watchMinutes":  null,
+                         "likes":  null,
+                         "comments":  null,
+                         "shares":  null,
+                         "followersGained":  null,
+                         "source":  "Local Playwright TikTok LIVE Center Replay"
                      }
                  ]
 }
