@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-09-24T13:23:06+07:00",
+    "generatedAt":  "2026-09-24T13:23:24+07:00",
     "source":  {
                    "status":  "ok",
                    "mode":  "real_connector_data",
@@ -32,7 +32,7 @@
                                                         "provider":  "Local Playwright TikTok Studio / Creator LIVE",
                                                         "status":  "ok",
                                                         "sessions":  6,
-                                                        "lastChecked":  "2026-09-24T13:09:06+07:00",
+                                                        "lastChecked":  "2026-09-24T13:23:24+07:00",
                                                         "dateRange":  {
                                                                           "from":  "2026-09-01",
                                                                           "to":  "2026-09-12"
