@@ -25,7 +25,7 @@
                     "tiktok":  {
                                    "provider":  "Multi-account TikTok Creator LIVE",
                                    "status":  "ok",
-                                   "accountHandle":  "@kph.nhatphuong",
+                                   "accountHandle":  "@ktv.oscarnhatphuong",
                                    "accounts":  [
                                                     {
                                                         "handle":  "@oscarkaraoke",
@@ -44,7 +44,7 @@
                                                         "note":  "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
                                                     },
                                                     {
-                                                        "handle":  "@kph.nhatphuong",
+                                                        "handle":  "@ktv.oscarnhatphuong",
                                                         "provider":  "Local Playwright TikTok Studio / Creator LIVE",
                                                         "status":  "ok",
                                                         "sessions":  6,
@@ -226,7 +226,7 @@
                      {
                          "platform":  "tiktok",
                          "network":  "tiktok",
-                         "accountHandle":  "@kph.nhatphuong",
+                         "accountHandle":  "@ktv.oscarnhatphuong",
                          "liveId":  "7683140280261872405",
                          "id":  "7683140280261872405",
                          "date":  "2026-09-08",
@@ -251,7 +251,7 @@
                      {
                          "platform":  "tiktok",
                          "network":  "tiktok",
-                         "accountHandle":  "@kph.nhatphuong",
+                         "accountHandle":  "@ktv.oscarnhatphuong",
                          "liveId":  "7683877670039374613",
                          "id":  "7683877670039374613",
                          "date":  "2026-09-10",
@@ -276,7 +276,7 @@
                      {
                          "platform":  "tiktok",
                          "network":  "tiktok",
-                         "accountHandle":  "@kph.nhatphuong",
+                         "accountHandle":  "@ktv.oscarnhatphuong",
                          "liveId":  "7683891494854511380",
                          "id":  "7683891494854511380",
                          "date":  "2026-09-10",
@@ -301,7 +301,7 @@
                      {
                          "platform":  "tiktok",
                          "network":  "tiktok",
-                         "accountHandle":  "@kph.nhatphuong",
+                         "accountHandle":  "@ktv.oscarnhatphuong",
                          "liveId":  "7686475525246618389",
                          "id":  "7686475525246618389",
                          "date":  "2026-09-17",
@@ -328,7 +328,7 @@
                      {
                          "platform":  "tiktok",
                          "network":  "tiktok",
-                         "accountHandle":  "@kph.nhatphuong",
+                         "accountHandle":  "@ktv.oscarnhatphuong",
                          "liveId":  "7688337552160672532",
                          "id":  "7688337552160672532",
                          "date":  "2026-09-22",
@@ -356,7 +356,7 @@
                      {
                          "platform":  "tiktok",
                          "network":  "tiktok",
-                         "accountHandle":  "@kph.nhatphuong",
+                         "accountHandle":  "@ktv.oscarnhatphuong",
                          "liveId":  "7689070629806492436",
                          "id":  "7689070629806492436",
                          "date":  "2026-09-24",
