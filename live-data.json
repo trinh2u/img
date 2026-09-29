@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:14:46+07:00",
+  "generatedAt": "2026-09-29T13:39:34+07:00",
   "source": {
     "status": "ok",
     "mode": "real_connector_data",
@@ -29,10 +29,10 @@
       "accounts": [
         {
           "handle": "@oscarkaraoke",
-          "provider": "Local Playwright TikTok Studio / Creator LIVE",
+          "provider": "TikTok Creator LIVE analysis authenticated sync",
           "status": "ok",
           "sessions": 6,
-          "lastChecked": "2026-09-29T16:11:32+07:00",
+          "lastChecked": "2026-09-29T13:39:34+07:00",
           "dateRange": {
             "from": "2026-09-01",
             "to": "2026-09-12"
@@ -41,14 +41,14 @@
           "taskId": "117778128365368797",
           "taskStatus": "finished",
           "profileId": "117638105235601629-app",
-          "note": "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
+          "note": "Verified per-session metrics from the authenticated TikTok Creator LIVE analysis page."
         },
         {
           "handle": "@ktv.oscarnhatphuong",
-          "provider": "Local Playwright TikTok Studio / Creator LIVE",
+          "provider": "TikTok Creator LIVE analysis authenticated sync",
           "status": "ok",
           "sessions": 6,
-          "lastChecked": "2026-09-29T16:14:46+07:00",
+          "lastChecked": "2026-09-29T13:39:34+07:00",
           "dateRange": {
             "from": "2026-09-13",
             "to": "2026-09-13"
@@ -57,17 +57,17 @@
           "taskId": null,
           "taskStatus": null,
           "profileId": null,
-          "note": "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
+          "note": "Verified per-session metrics from the authenticated TikTok Creator LIVE analysis page."
         }
       ],
       "sessions": 12,
-      "lastChecked": "2026-09-29T16:14:46+07:00",
+      "lastChecked": "2026-09-29T11:50:13+07:00",
       "note": "Multi-account TikTok Creator LIVE. Each account uses its own authenticated collector/profile."
     }
   },
   "summary": {
     "sessions": 12,
-    "views": 24481,
+    "views": 25302,
     "peakConcurrentViewers": 666,
     "watchMinutes": null,
     "followersGained": 241
@@ -109,7 +109,7 @@
       "startTime": "2026-09-01T19:33:14+07:00",
       "endTime": "2026-09-01T19:55:31+07:00",
       "durationSec": 1337,
-      "views": 222,
+      "views": 256,
       "viewers": 222,
       "averageConcurrentViewers": 4,
       "peakConcurrentViewers": 8,
@@ -134,7 +134,7 @@
       "startTime": "2026-09-01T20:19:53+07:00",
       "endTime": "2026-09-01T20:44:50+07:00",
       "durationSec": 1497,
-      "views": 65,
+      "views": 76,
       "viewers": 65,
       "averageConcurrentViewers": 3,
       "peakConcurrentViewers": 8,
@@ -159,7 +159,7 @@
       "startTime": "2026-09-03T19:09:07+07:00",
       "endTime": "2026-09-03T20:18:11+07:00",
       "durationSec": 4144,
-      "views": 528,
+      "views": 613,
       "viewers": 528,
       "averageConcurrentViewers": 5,
       "peakConcurrentViewers": 14,
@@ -184,7 +184,7 @@
       "startTime": "2026-09-03T20:19:50+07:00",
       "endTime": "2026-09-03T20:33:23+07:00",
       "durationSec": 813,
-      "views": 88,
+      "views": 97,
       "viewers": 88,
       "averageConcurrentViewers": 5,
       "peakConcurrentViewers": 9,
@@ -209,7 +209,7 @@
       "startTime": "2026-09-08T19:05:10+07:00",
       "endTime": "2026-09-08T19:26:19+07:00",
       "durationSec": 1269,
-      "views": 159,
+      "views": 172,
       "viewers": 159,
       "averageConcurrentViewers": 5,
       "peakConcurrentViewers": 9,
@@ -234,7 +234,7 @@
       "startTime": "2026-09-08T19:28:32+07:00",
       "endTime": "2026-09-08T21:01:29+07:00",
       "durationSec": 5577,
-      "views": 493,
+      "views": 575,
       "viewers": 493,
       "averageConcurrentViewers": 19,
       "peakConcurrentViewers": 58,
@@ -259,7 +259,7 @@
       "startTime": "2026-09-10T19:10:01+07:00",
       "endTime": "2026-09-10T19:53:08+07:00",
       "durationSec": 2587,
-      "views": 739,
+      "views": 834,
       "viewers": 739,
       "averageConcurrentViewers": 8,
       "peakConcurrentViewers": 38,
@@ -284,7 +284,7 @@
       "startTime": "2026-09-10T20:03:37+07:00",
       "endTime": "2026-09-10T20:55:55+07:00",
       "durationSec": 3138,
-      "views": 402,
+      "views": 468,
       "viewers": 402,
       "averageConcurrentViewers": 36,
       "peakConcurrentViewers": 63,
@@ -364,7 +364,7 @@
       "startTime": "2026-09-24T19:01:50+07:00",
       "endTime": "2026-09-24T20:03:50+07:00",
       "durationSec": 3720,
-      "views": 4352,
+      "views": 4778,
       "viewers": 4352,
       "averageConcurrentViewers": 94,
       "peakConcurrentViewers": 261,
