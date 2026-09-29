@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T13:39:34+07:00",
+  "generatedAt": "2026-09-29T16:25:12+07:00",
   "source": {
     "status": "ok",
     "mode": "real_connector_data",
@@ -29,10 +29,10 @@
       "accounts": [
         {
           "handle": "@oscarkaraoke",
-          "provider": "TikTok Creator LIVE analysis authenticated sync",
+          "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
           "sessions": 6,
-          "lastChecked": "2026-09-29T13:39:34+07:00",
+          "lastChecked": "2026-09-29T16:21:58+07:00",
           "dateRange": {
             "from": "2026-09-01",
             "to": "2026-09-12"
@@ -41,14 +41,14 @@
           "taskId": "117778128365368797",
           "taskStatus": "finished",
           "profileId": "117638105235601629-app",
-          "note": "Verified per-session metrics from the authenticated TikTok Creator LIVE analysis page."
+          "note": "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
         },
         {
           "handle": "@ktv.oscarnhatphuong",
-          "provider": "TikTok Creator LIVE analysis authenticated sync",
+          "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
           "sessions": 6,
-          "lastChecked": "2026-09-29T13:39:34+07:00",
+          "lastChecked": "2026-09-29T16:25:12+07:00",
           "dateRange": {
             "from": "2026-09-13",
             "to": "2026-09-13"
@@ -57,11 +57,11 @@
           "taskId": null,
           "taskStatus": null,
           "profileId": null,
-          "note": "Verified per-session metrics from the authenticated TikTok Creator LIVE analysis page."
+          "note": "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
         }
       ],
       "sessions": 12,
-      "lastChecked": "2026-09-29T11:50:13+07:00",
+      "lastChecked": "2026-09-29T16:25:12+07:00",
       "note": "Multi-account TikTok Creator LIVE. Each account uses its own authenticated collector/profile."
     }
   },
