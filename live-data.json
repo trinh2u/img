@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:21:52+07:00",
+  "generatedAt": "2026-10-02T10:33:00+07:00",
   "source": {
     "status": "ok",
     "mode": "real_connector_data",
@@ -67,10 +67,10 @@
   },
   "summary": {
     "sessions": 13,
-    "views": 27405,
+    "views": 27571,
     "peakConcurrentViewers": 666,
     "watchMinutes": null,
-    "followersGained": 241
+    "followersGained": 266
   },
   "sessions": [
     {
@@ -389,18 +389,19 @@
       "startTime": "2026-10-01T19:52:23+07:00",
       "endTime": "2026-10-01T20:30:28+07:00",
       "durationSec": 2285,
-      "views": 2103,
+      "views": 2269,
       "viewers": 2103,
-      "averageConcurrentViewers": null,
-      "peakConcurrentViewers": null,
-      "averageWatchTimeSec": null,
+      "averageConcurrentViewers": 79,
+      "peakConcurrentViewers": 204,
+      "averageWatchTimeSec": 19,
       "watchMinutes": null,
-      "likes": null,
-      "comments": null,
-      "shares": null,
-      "followersGained": 0,
+      "likes": 1472,
+      "comments": 94,
+      "shares": 4,
+      "followersGained": 25,
       "source": "Local Playwright TikTok LIVE Center Replay",
-      "dailyMetricsSource": "TikTok LIVE analytics overview"
+      "dailyMetricsSource": "TikTok LIVE analytics overview",
+      "detailMetricsSource": "TikTok LIVE analysis authenticated browser verification 2026-10-02"
     }
   ]
 }
