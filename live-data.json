@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:29:49+07:00",
+  "generatedAt": "2026-10-07T12:02:15+07:00",
   "source": {
     "status": "ok",
     "mode": "real_connector_data",
@@ -32,7 +32,7 @@
           "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
           "sessions": 6,
-          "lastChecked": "2026-10-02T06:12:30+07:00",
+          "lastChecked": "2026-10-07T11:58:42+07:00",
           "dateRange": {
             "from": "2026-09-01",
             "to": "2026-09-12"
@@ -47,8 +47,8 @@
           "handle": "@ktv.oscarnhatphuong",
           "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
-          "sessions": 7,
-          "lastChecked": "2026-10-02T06:21:52+07:00",
+          "sessions": 8,
+          "lastChecked": "2026-10-07T12:02:15+07:00",
           "dateRange": {
             "from": "2026-09-13",
             "to": "2026-09-13"
@@ -60,17 +60,17 @@
           "note": "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
         }
       ],
-      "sessions": 13,
-      "lastChecked": "2026-10-02T06:21:52+07:00",
+      "sessions": 14,
+      "lastChecked": "2026-10-07T12:02:15+07:00",
       "note": "Multi-account TikTok Creator LIVE. Each account uses its own authenticated collector/profile."
     }
   },
   "summary": {
-    "sessions": 13,
-    "views": 27571,
-    "peakConcurrentViewers": 666,
+    "sessions": 14,
+    "views": 38417,
+    "peakConcurrentViewers": 685,
     "watchMinutes": null,
-    "followersGained": 266
+    "followersGained": 335
   },
   "sessions": [
     {
@@ -295,8 +295,9 @@
       "shares": 3,
       "followersGained": 9,
       "source": "Local Playwright TikTok LIVE Center Replay",
-      "diamonds": 33,
-      "detailMetricsSource": "TikTok Creator LIVE analysis authenticated sync"
+      "diamonds": 4,
+      "detailMetricsSource": "TikTok Creator LIVE analysis authenticated sync",
+      "gifters": 2
     },
     {
       "platform": "tiktok",
@@ -349,7 +350,7 @@
       "source": "Local Playwright TikTok LIVE Center Replay",
       "dailyMetricsSource": "TikTok LIVE analytics overview",
       "activeViewers": 302,
-      "diamonds": 33,
+      "diamonds": 26,
       "gifters": 3,
       "detailMetricsSource": "TikTok Creator LIVE analysis authenticated sync"
     },
@@ -376,7 +377,9 @@
       "followersGained": 41,
       "source": "Local Playwright TikTok LIVE Center Replay",
       "dailyMetricsSource": "TikTok LIVE analytics overview",
-      "detailMetricsSource": "TikTok Creator LIVE analysis authenticated sync"
+      "detailMetricsSource": "TikTok Creator LIVE analysis authenticated sync",
+      "diamonds": 0,
+      "gifters": 0
     },
     {
       "platform": "tiktok",
@@ -401,7 +404,36 @@
       "followersGained": 25,
       "source": "Local Playwright TikTok LIVE Center Replay",
       "dailyMetricsSource": "TikTok LIVE analytics overview",
-      "detailMetricsSource": "TikTok LIVE analysis verified authenticated browser 2026-10-02"
+      "detailMetricsSource": "TikTok LIVE analysis verified authenticated browser 2026-10-02",
+      "diamonds": 0,
+      "gifters": 0
+    },
+    {
+      "platform": "tiktok",
+      "network": "tiktok",
+      "accountHandle": "@ktv.oscarnhatphuong",
+      "liveId": "7693524119778544405",
+      "id": "7693524119778544405",
+      "date": "2026-10-06",
+      "title": "hello",
+      "startTime": "2026-10-06T19:03:35+07:00",
+      "endTime": "2026-10-06T21:00:20+07:00",
+      "durationSec": 7005,
+      "views": 10846,
+      "viewers": 9825,
+      "averageConcurrentViewers": 163,
+      "peakConcurrentViewers": 685,
+      "averageWatchTimeSec": 28,
+      "watchMinutes": null,
+      "likes": 3122,
+      "comments": 453,
+      "shares": 17,
+      "followersGained": 69,
+      "source": "Local Playwright TikTok LIVE Center Replay",
+      "dailyMetricsSource": "TikTok LIVE analytics overview",
+      "diamonds": 7,
+      "gifters": 4,
+      "detailMetricsSource": "TikTok LIVE analysis DOM"
     }
   ]
 }
