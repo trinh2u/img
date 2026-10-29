@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:40:53+07:00",
+  "generatedAt": "2026-10-29T12:43:06+07:00",
   "source": {
     "status": "ok",
     "mode": "real_connector_data",
@@ -31,8 +31,8 @@
           "handle": "@oscarkaraoke",
           "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
-          "sessions": 8,
-          "lastChecked": "2026-10-28T12:36:52+07:00",
+          "sessions": 9,
+          "lastChecked": "2026-10-29T12:39:08+07:00",
           "dateRange": {
             "from": "2026-09-01",
             "to": "2026-09-12"
@@ -48,7 +48,7 @@
           "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
           "sessions": 14,
-          "lastChecked": "2026-10-28T12:40:53+07:00",
+          "lastChecked": "2026-10-29T12:43:06+07:00",
           "dateRange": {
             "from": "2026-09-13",
             "to": "2026-09-13"
@@ -60,14 +60,14 @@
           "note": "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
         }
       ],
-      "sessions": 22,
-      "lastChecked": "2026-10-28T12:40:53+07:00",
+      "sessions": 23,
+      "lastChecked": "2026-10-29T12:43:06+07:00",
       "note": "Multi-account TikTok Creator LIVE. Each account uses its own authenticated collector/profile."
     }
   },
   "summary": {
-    "sessions": 22,
-    "views": 61764,
+    "sessions": 23,
+    "views": 68230,
     "peakConcurrentViewers": 1011,
     "watchMinutes": null,
     "followersGained": 495
@@ -638,6 +638,30 @@
       "shares": null,
       "followersGained": null,
       "source": "Local Playwright TikTok LIVE Center Replay"
+    },
+    {
+      "platform": "tiktok",
+      "network": "tiktok",
+      "accountHandle": "@oscarkaraoke",
+      "liveId": "7701648043326950165",
+      "id": "7701648043326950165",
+      "date": "2026-10-28",
+      "title": "chin chàoooo",
+      "startTime": "2026-10-28T16:29:09+07:00",
+      "endTime": "2026-10-28T17:30:28+07:00",
+      "durationSec": 3679,
+      "views": 6466,
+      "viewers": 6466,
+      "averageConcurrentViewers": null,
+      "peakConcurrentViewers": null,
+      "averageWatchTimeSec": null,
+      "watchMinutes": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "followersGained": 0,
+      "source": "Local Playwright TikTok LIVE Center Replay",
+      "dailyMetricsSource": "TikTok LIVE analytics overview"
     }
   ]
 }
