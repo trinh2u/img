@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:45:09+07:00",
+  "generatedAt": "2026-11-01T12:36:34+07:00",
   "source": {
     "status": "ok",
     "mode": "real_connector_data",
@@ -31,8 +31,8 @@
           "handle": "@oscarkaraoke",
           "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
-          "sessions": 12,
-          "lastChecked": "2026-10-31T12:41:12+07:00",
+          "sessions": 16,
+          "lastChecked": "2026-11-01T12:33:20+07:00",
           "dateRange": {
             "from": "2026-09-01",
             "to": "2026-09-12"
@@ -48,7 +48,7 @@
           "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
           "sessions": 14,
-          "lastChecked": "2026-10-31T12:45:09+07:00",
+          "lastChecked": "2026-11-01T12:36:34+07:00",
           "dateRange": {
             "from": "2026-09-13",
             "to": "2026-09-13"
@@ -60,17 +60,17 @@
           "note": "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
         }
       ],
-      "sessions": 26,
-      "lastChecked": "2026-10-31T12:45:09+07:00",
+      "sessions": 30,
+      "lastChecked": "2026-11-01T12:36:34+07:00",
       "note": "Multi-account TikTok Creator LIVE. Each account uses its own authenticated collector/profile."
     }
   },
   "summary": {
-    "sessions": 26,
-    "views": 69777,
+    "sessions": 30,
+    "views": 70189,
     "peakConcurrentViewers": 1011,
     "watchMinutes": null,
-    "followersGained": 588
+    "followersGained": 592
   },
   "sessions": [
     {
@@ -706,8 +706,9 @@
       "likes": null,
       "comments": null,
       "shares": null,
-      "followersGained": null,
-      "source": "Local Playwright TikTok LIVE Center Replay"
+      "followersGained": 4,
+      "source": "Local Playwright TikTok LIVE Center Replay",
+      "dailyMetricsSource": "TikTok LIVE analytics overview"
     },
     {
       "platform": "tiktok",
@@ -722,6 +723,98 @@
       "durationSec": 1854,
       "views": 518,
       "viewers": 518,
+      "averageConcurrentViewers": null,
+      "peakConcurrentViewers": null,
+      "averageWatchTimeSec": null,
+      "watchMinutes": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "followersGained": null,
+      "source": "Local Playwright TikTok LIVE Center Replay"
+    },
+    {
+      "platform": "tiktok",
+      "network": "tiktok",
+      "accountHandle": "@oscarkaraoke",
+      "liveId": "7702848573969795860",
+      "id": "7702848573969795860",
+      "date": "2026-10-31",
+      "title": "chin chàoooo",
+      "startTime": "2026-10-31T22:07:11+07:00",
+      "endTime": "2026-10-31T22:17:25+07:00",
+      "durationSec": 614,
+      "views": 114,
+      "viewers": 114,
+      "averageConcurrentViewers": null,
+      "peakConcurrentViewers": null,
+      "averageWatchTimeSec": null,
+      "watchMinutes": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "followersGained": null,
+      "source": "Local Playwright TikTok LIVE Center Replay"
+    },
+    {
+      "platform": "tiktok",
+      "network": "tiktok",
+      "accountHandle": "@oscarkaraoke",
+      "liveId": "7702851639516875541",
+      "id": "7702851639516875541",
+      "date": "2026-10-31",
+      "title": "chin chàoooo",
+      "startTime": "2026-10-31T22:19:10+07:00",
+      "endTime": "2026-10-31T22:20:43+07:00",
+      "durationSec": 93,
+      "views": 3,
+      "viewers": 3,
+      "averageConcurrentViewers": null,
+      "peakConcurrentViewers": null,
+      "averageWatchTimeSec": null,
+      "watchMinutes": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "followersGained": null,
+      "source": "Local Playwright TikTok LIVE Center Replay"
+    },
+    {
+      "platform": "tiktok",
+      "network": "tiktok",
+      "accountHandle": "@oscarkaraoke",
+      "liveId": "7702852105741994773",
+      "id": "7702852105741994773",
+      "date": "2026-10-31",
+      "title": "chin chàoooo",
+      "startTime": "2026-10-31T22:20:58+07:00",
+      "endTime": "2026-10-31T22:50:43+07:00",
+      "durationSec": 1785,
+      "views": 184,
+      "viewers": 184,
+      "averageConcurrentViewers": null,
+      "peakConcurrentViewers": null,
+      "averageWatchTimeSec": null,
+      "watchMinutes": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "followersGained": null,
+      "source": "Local Playwright TikTok LIVE Center Replay"
+    },
+    {
+      "platform": "tiktok",
+      "network": "tiktok",
+      "accountHandle": "@oscarkaraoke",
+      "liveId": "7702859885310642965",
+      "id": "7702859885310642965",
+      "date": "2026-10-31",
+      "title": "chin chàoooo",
+      "startTime": "2026-10-31T22:51:11+07:00",
+      "endTime": "2026-10-31T23:08:45+07:00",
+      "durationSec": 1054,
+      "views": 111,
+      "viewers": 111,
       "averageConcurrentViewers": null,
       "peakConcurrentViewers": null,
       "averageWatchTimeSec": null,
