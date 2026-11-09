@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:47:38+07:00",
+  "generatedAt": "2026-11-09T12:47:42+07:00",
   "source": {
     "status": "ok",
     "mode": "real_connector_data",
@@ -31,8 +31,8 @@
           "handle": "@oscarkaraoke",
           "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
-          "sessions": 20,
-          "lastChecked": "2026-11-08T12:43:37+07:00",
+          "sessions": 21,
+          "lastChecked": "2026-11-09T12:43:41+07:00",
           "dateRange": {
             "from": "2026-09-01",
             "to": "2026-09-12"
@@ -48,7 +48,7 @@
           "provider": "Local Playwright TikTok Studio / Creator LIVE",
           "status": "ok",
           "sessions": 15,
-          "lastChecked": "2026-11-08T12:47:38+07:00",
+          "lastChecked": "2026-11-09T12:47:42+07:00",
           "dateRange": {
             "from": "2026-09-13",
             "to": "2026-09-13"
@@ -60,14 +60,14 @@
           "note": "Collected locally from the authenticated TikTok Creator/TikTok Studio LIVE analytics session."
         }
       ],
-      "sessions": 35,
-      "lastChecked": "2026-11-08T12:47:38+07:00",
+      "sessions": 36,
+      "lastChecked": "2026-11-09T12:47:42+07:00",
       "note": "Multi-account TikTok Creator LIVE. Each account uses its own authenticated collector/profile."
     }
   },
   "summary": {
-    "sessions": 35,
-    "views": 75227,
+    "sessions": 36,
+    "views": 79619,
     "peakConcurrentViewers": 1011,
     "watchMinutes": null,
     "followersGained": 609
@@ -945,6 +945,29 @@
       "followersGained": 17,
       "source": "Local Playwright TikTok LIVE Center Replay",
       "dailyMetricsSource": "TikTok LIVE analytics overview"
+    },
+    {
+      "platform": "tiktok",
+      "network": "tiktok",
+      "accountHandle": "@oscarkaraoke",
+      "liveId": "7706027618555169542",
+      "id": "7706027618555169542",
+      "date": "2026-11-09",
+      "title": "chin chàoooo",
+      "startTime": "2026-11-09T11:43:48+07:00",
+      "endTime": "2026-11-09T12:08:12+07:00",
+      "durationSec": 1464,
+      "views": 4392,
+      "viewers": 4392,
+      "averageConcurrentViewers": null,
+      "peakConcurrentViewers": null,
+      "averageWatchTimeSec": null,
+      "watchMinutes": null,
+      "likes": null,
+      "comments": null,
+      "shares": null,
+      "followersGained": null,
+      "source": "Local Playwright TikTok LIVE Center Replay"
     }
   ]
 }
